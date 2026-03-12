@@ -1,6 +1,6 @@
 // Real GitHub Stats for param20h
 document.addEventListener('DOMContentLoaded', function() {
-    const username = 'param20h';
+    const username = 'bitu-kumar1269';
     
     async function fetchGitHubStats() {
         try {
